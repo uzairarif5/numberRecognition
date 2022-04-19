@@ -9,3 +9,6 @@ Modules used:
 - math
 - os
 - threading
+
+
+However, the neural network has not been trained with alot of data, the purpose of this project was to get the basic understanding of how to program a neural network in Python.
